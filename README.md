@@ -29,6 +29,9 @@ The Universal Quantum Information Framework proposes a novel approach to underst
 
 The paper presents mathematical formulations, simulation results, and theoretical implications for fields ranging from quantum computing to consciousness studies.
 
+## AI Assistance
+The mathematical formalism, QuTiP/PennyLane simulations, Monte Carlo analysis, figure generation, and manuscript compilation were developed with substantial assistance from Grok (built by xAI). The core theoretical framework, hypotheses, and final interpretations remain the responsibility of the author, Michael Ruiz.
+
 ## Usage
 
 The PDF file `uqif.pdf` contains the complete paper with all equations and figures embedded. The accompanying data files and simulation script allow for reproduction and extension of the numerical results presented in the paper.
@@ -37,6 +40,8 @@ To run the simulations:
 ```bash
 python3 uqif_v23_enhanced_simulations.py
 ```
+## Status
+This is a speculative theoretical proposal (v1.0, May 2026). It is intended to stimulate discussion and guide experimental work in quantum biology and consciousness studies.
 
 ## License
 MIT License
