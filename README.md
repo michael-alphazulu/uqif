@@ -31,7 +31,7 @@ The paper presents mathematical formulations, simulation results, and theoretica
 
 ## Usage
 
-The PDF file `uqif.pdf` contains the complete paper with all equations properly typeset and figures embedded. The accompanying data files and simulation script allow for reproduction and extension of the numerical results presented in the paper.
+The PDF file `uqif.pdf` contains the complete paper with all equations and figures embedded. The accompanying data files and simulation script allow for reproduction and extension of the numerical results presented in the paper.
 
 To run the simulations:
 ```bash
