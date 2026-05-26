@@ -48,3 +48,10 @@ MIT License
 ## Contact
 Michael Ruiz
 michael@alphazulu.net
+
+You don't have to cite UQIF but if you do:
+  author       = Michael Ruiz
+  title        = UQIF
+  month        = may
+  year         = 2026
+  url          = https://github.com/michael-alphazulu/uqif/
