@@ -38,10 +38,6 @@ To run the simulations:
 python3 uqif_v23_enhanced_simulations.py
 ```
 
-## Note
-
-This repository contains only the publication materials. For the full theoretical framework documentation and ongoing research, please refer to the main UQIF project repository.
-
 ## License
 MIT License
 
