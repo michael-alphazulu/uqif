@@ -43,9 +43,8 @@ python3 uqif_v23_enhanced_simulations.py
 This repository contains only the publication materials. For the full theoretical framework documentation and ongoing research, please refer to the main UQIF project repository.
 
 ## License
-
-[Please specify license if applicable]
+MIT License
 
 ## Contact
-
-For inquiries regarding this work, please contact the author through the appropriate channels.
+Michael Ruiz
+michael@alphazulu.net
