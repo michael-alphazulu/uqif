@@ -4,7 +4,7 @@ This repository contains the publication materials for the Universal Quantum Inf
 
 ## Contents
 
-- `uqif.pdf` - The fully typeset LaTeX PDF of the UQIF paper with proper equation rendering and all figures included
+- `uqif.pdf` - The fully typeset LaTeX PDF of the UQIF paper 
 - `uqif_v23_*.png` - Simulation figures referenced in the paper:
   - `uqif_v23_chsh_nonlocality_pennylane.png` - CHSH nonlocality simulation using PennyLane
   - `uqif_v23_coherence_decay_qutip.png` - Coherence decay simulation using QuTiP
